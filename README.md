@@ -1,2 +1,3 @@
-# super-super-heroku-bot
+# DiscordBot
+
 Bot using heroku, 24/7!

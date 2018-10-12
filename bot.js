@@ -8,7 +8,11 @@ client.on('ready', () => {
 client.on('message', message => {
     if (message.content === 'ping') {
     	message.reply('pong');
-  	}
+      }
+      
+    if (message.content === "play") {
+        message.reply('Fuck you !');
+    }
 });
 
 // THIS  MUST  BE  THIS  WAY
